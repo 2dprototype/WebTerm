@@ -7,7 +7,7 @@ WebTerm is an HTML terminal implemented using JavaScript, similar to xterm.js.
 - Supports basic ANSI Colors
 
 ## Demo
-Just grab the repo and open `demo/index.html`.
+Here is a quick [demo](https://2dprototype.github.io/WebTerm/).
 
 ## Usage
 
